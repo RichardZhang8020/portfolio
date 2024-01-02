@@ -1,7 +1,5 @@
 'use strict';
 
-
-
 /**
  * navbar toggle
  */
@@ -46,3 +44,7 @@ window.addEventListener("scroll", function () {
     backTopBtn.classList.remove("active");
   }
 });
+
+
+
+//Document.querySelector("title").innerHTML = "TEST"
